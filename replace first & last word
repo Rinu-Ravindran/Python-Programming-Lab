@@ -1,0 +1,3 @@
+word_1 = input("Enter any word:")
+text=word_1[-1]+word_1[1:-1]+word_1[0]
+print(text)
