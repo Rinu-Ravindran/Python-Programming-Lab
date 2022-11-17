@@ -1,0 +1,9 @@
+list=[]
+n=int(input("how many values:"))
+for i in range(0,n):
+    value=int(input("enter the value"))
+    if(value>=100):
+        list.append("over")
+    else:
+            list.append(value)
+print("the given list after modification",list)
