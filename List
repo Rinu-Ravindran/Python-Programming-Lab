@@ -21,4 +21,4 @@ else:
 
 for i in list1:
     if i in list2:
-        print("-->the repeating element:",i
+        print("-->the repeating element:",i)
